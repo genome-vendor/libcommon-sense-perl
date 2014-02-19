@@ -1,0 +1,5 @@
+libcommon-sense-perl (3.72-1) unstable; urgency=low
+
+  * Initial import of common::sense 3.72 from CPAN
+
+ -- Anthony Brummett <abrummet@genome.wustl.edu>  Wed, 19 Feb 2014 11:01:17 -0600
